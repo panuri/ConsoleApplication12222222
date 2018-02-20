@@ -11,7 +11,7 @@ namespace ConsoleApplication12222222
         public int MyProperty { get; set; }
         public Class1()
         {
-
+            int c:
         }
     }
 }
